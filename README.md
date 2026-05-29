@@ -41,6 +41,8 @@ yhf-llm-wiki——用 LLM（Claude Code/Codex）维护 Obsidian 个人知识库.
 
 prompt-forge,对原始数百条prompt的方法论分析复盘,对你的问题进行优化输出
 
+logistics-yhf-zonghe，综合了logistics_yhf（基于100篇文章）、logistic_of_yhf（基于播客音频）+自进化
+
 
 
 
