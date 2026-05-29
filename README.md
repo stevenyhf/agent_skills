@@ -39,6 +39,8 @@ haofeng_movie_skill  本技能还原《浩峰看电影》的内容创作风格.
 
 yhf-llm-wiki——用 LLM（Claude Code/Codex）维护 Obsidian 个人知识库.
 
+prompt-forge,对原始数百条prompt的方法论分析复盘,对你的问题进行优化输出
+
 
 
 
