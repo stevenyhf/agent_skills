@@ -43,6 +43,12 @@ prompt-forge,对原始数百条prompt的方法论分析复盘,对你的问题进
 
 logistics-yhf-zonghe，综合了logistics_yhf（基于100篇文章）、logistic_of_yhf（基于播客音频）+自进化
 
+douban-movie,将haofeng_movie_skill，douban-movie-hermes几个合并到一起
+
+boss-service,老板目标对齐工具
+
+shopping-comparison,国内购物平台比价工具。
+
 
 
 
